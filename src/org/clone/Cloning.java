@@ -13,6 +13,13 @@ public class Cloning {
 		System.out.println("this is vignesh 3");
 		System.out.println("this is vignesh 4");
 		System.out.println("this is vignesh 5");
+
+		System.out.println(1);
+		System.out.println(2);
+		System.out.println(3);
+		System.out.println(4);
+		System.out.println(5);
+		System.out.println(6);
 	}
 
 }
