@@ -8,6 +8,11 @@ public class Cloning {
 		} else {
 			System.out.println("odd number");
 		}
+		System.out.println("this is vikram 1");
+		System.out.println("this is vikram 2");
+		System.out.println("this is vikram 3");
+		System.out.println("this is vikram 4");
+		System.out.println("this is vikram 5");
 	}
 
 }
