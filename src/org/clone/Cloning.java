@@ -8,6 +8,12 @@ public class Cloning {
 		} else {
 			System.out.println("odd number");
 		}
+		System.out.println("this is vignesh 1");
+		System.out.println("this is vignesh 2");
+		System.out.println("this is vignesh 3");
+		System.out.println("this is vignesh 4");
+		System.out.println("this is vignesh 5");
+
 		System.out.println(1);
 		System.out.println(2);
 		System.out.println(3);
